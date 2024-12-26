@@ -13,19 +13,20 @@
 ---
 <h2 align="center">Gallery</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px; margin: auto; max-width: 900px;">
-  <img src="apalah/cantik1.jpg" alt="Photo 1" width="200" style="margin:5px;" />
-  <img src="apalah/cantik2.jpg" alt="Photo 2" width="400" style="margin:5px;" />
-  <img src="apalah/cantik3.jpg" alt="Photo 3" width="300" style="margin:5px;" />
-  <img src="apalah/cantik4.jpg" alt="Photo 4" width="250" style="margin:5px;" />
-  <img src="apalah/cantik5.jpg" alt="Photo 5" width="350" style="margin:5px;" />
-  <img src="apalah/cantik6.jpg" alt="Photo 6" width="300" style="margin:5px;" />
-  <img src="apalah/cantik7.jpg" alt="Photo 7" width="200" style="margin:5px;" />
-  <img src="apalah/cantik8.jpg" alt="Photo 8" width="400" style="margin:5px;" />
-  <img src="apalah/cantik9.jpg" alt="Photo 9" width="300" style="margin:5px;" />
-  <img src="apalah/cantik10.jpg" alt="Photo 10" width="250" style="margin:5px;" />
-  <img src="apalah/cantik11.jpg" alt="Photo 11" width="350" style="margin:5px;" />
-  <img src="apalah/cantik12.jpg" alt="Photo 12" width="300" style="margin:5px;" />
+  <img src="apalah/cantik1.jpg" alt="Photo 1" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik2.jpg" alt="Photo 2" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik3.jpg" alt="Photo 3" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik4.jpg" alt="Photo 4" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik5.jpg" alt="Photo 5" style="width: 200px; ; object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik6.jpg" alt="Photo 6" style="width: 200px; ; object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik7.jpg" alt="Photo 7" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik8.jpg" alt="Photo 8" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik9.jpg" alt="Photo 9" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik10.jpg" alt="Photo 10" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik11.jpg" alt="Photo 11" style="width: 200px;  object-fit: cover; margin:5px;" />
+  <img src="apalah/cantik12.jpg" alt="Photo 12" style="width: 200px;  object-fit: cover; margin:5px;" />
 </div>
+
 
 
 ---
