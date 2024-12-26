@@ -1,7 +1,38 @@
-
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaidan!;" />
+</h1>
 # Hello World!, I'm Zaidan 👨‍💻  
 🔧 A passionate **Web Developer** and lifelong learner.
+
+
+
+<div align="center">
+  <img src="assets/profile-frame.gif" alt="My Photo Frame" width="300" />
+</div>
+
+---
+
+<h2 align="center">Gallery</h2>
+<div align="center">
+  <img src="extracted_photos/cantik1.jpg" alt="Photo 1" width="200" style="margin:10px;" />
+  <img src="extracted_photos/cantik2.jpg" alt="Photo 2" width="300" style="margin:10px;" />
+  <img src="extracted_photos/cantik3.jpg" alt="Photo 3" width="400" style="margin:10px;" />
+  <img src="extracted_photos/cantik4.jpg" alt="Photo 4" width="250" style="margin:10px;" />
+  <img src="extracted_photos/cantik5.jpg" alt="Photo 5" width="350" style="margin:10px;" />
+  <img src="extracted_photos/cantik6.jpg" alt="Photo 6" width="300" style="margin:10px;" />
+  <img src="extracted_photos/cantik7.jpg" alt="Photo 7" width="200" style="margin:10px;" />
+  <img src="extracted_photos/cantik8.jpg" alt="Photo 8" width="300" style="margin:10px;" />
+  <img src="extracted_photos/cantik9.jpg" alt="Photo 9" width="400" style="margin:10px;" />
+  <img src="extracted_photos/cantik10.jpg" alt="Photo 10" width="250" style="margin:10px;" />
+  <img src="extracted_photos/cantik11.jpg" alt="Photo 11" width="350" style="margin:10px;" />
+  <img src="extracted_photos/cantik12.jpg" alt="Photo 12" width="300" style="margin:10px;" />
+</div>
+
+
+
+<div align="center">
+  <img src="assets/profile-frame.gif" alt="My Photo Frame" width="300" />
+</div>
 
 ---
 
@@ -40,15 +71,50 @@
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+  
+  <br/><br/><br/>
+<h2 align="center">📊 GitHub Stats:</h2>
+<div align="center">
+  <div>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=chaali03&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=chaali03&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  </div>
+  <br/>
+  <div>
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaali03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </div>
+</div>
 
-## 📫 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidanusername)  
-[![Discord](https://img.shields.io/badge/Discord-%2371B7E6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zaidanusername)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304B32C.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/zaidanusername)  
-[![Telegram](https://img.shields.io/badge/Telegram-%230078CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zaidanusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zaidanusername)  
+---
 
---- 
+<h2 align="left">📫 Connect with Me:</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/zaidanusername">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/zaidanusername">
+    <img src="https://img.shields.io/badge/Discord-%2371B7E6.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://wa.me/zaidanusername">
+    <img src="https://img.shields.io/badge/WhatsApp-%2304B32C.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/zaidanusername">
+    <img src="https://img.shields.io/badge/Telegram-%230078CC.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/zaidanusername">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
+---
 
 ✨ Keep coding, stay curious, and build amazing things! 💻
+
