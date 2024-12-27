@@ -83,6 +83,7 @@
 </picture>
 </div>
 
+---
 
 <h2 align="left">📫 Connect with Me:</h2>
 <div align="left">
