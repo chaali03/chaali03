@@ -81,21 +81,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-  
-  <br/><br/><br/>
-<h2 align="center">📊 GitHub Stats:</h2>
-<div align="center">
-  <div>
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=chaali03&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=chaali03&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-  </div>
-  <br/>
-  <div>
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaali03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  </div>
 </div>
 
----
 
 <h2 align="left">📫 Connect with Me:</h2>
 <div align="left">
