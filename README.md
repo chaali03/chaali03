@@ -1,17 +1,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaidan!;" />
 </h1>
-# Hello World!, I'm Zaidan 👨‍💻  
-🔧 A passionate **Web Developer** and lifelong learner.
 
-
+<div style="text-align: center; margin-top: 20px;">
+  <h1>🌟 Hello World! I'm Zaidan 👨‍💻</h1>
+  <p> 🔧 A <strong>passionate Web Developer</strong>, lifelong learner, and innovator. </p>
+  <p>  💡 Turning ideas into reality, one line of code at a time.</p>
+  
+</div>
 
 <div align="center">
   <img src="assets/profile-frame.gif" alt="My Photo Frame" width="300" />
 </div>
 
 ---
-<h2 align="center">Gallery</h2>
+<h1 align="center"> 🎉Gallery 🎉</h1>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px; margin: auto; max-width: 900px;">
   <img src="apalah/cantik1.jpg" alt="Photo 1" style="width: 200px;  object-fit: cover; margin:5px;" />
   <img src="apalah/cantik2.jpg" alt="Photo 2" style="width: 200px;  object-fit: cover; margin:5px;" />
@@ -28,8 +31,6 @@
 </div>
 
 
-
----
 
 <div align="center">
   <img src="assets/profile-frame.gif" alt="My Photo Frame" width="300" />
