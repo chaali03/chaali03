@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/chaali03/chaali03/blob/main/apalah/Code%20Coding%20GIF%20-%20Code%20Coding%20Programming%20-%20Discover%20%26%20Share%20GIFs.gif?raw=true" alt="Coding GIF" width="300" height="300" /> <!-- Atur panjang dan tinggi sesuai kebutuhan -->
+  <img src="https://github.com/chaali03/chaali03/blob/main/apalah/_.gif" alt="Coding GIF" width="900" height="400" /> <!-- Atur panjang dan tinggi sesuai kebutuhan -->
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaidan!;" />
